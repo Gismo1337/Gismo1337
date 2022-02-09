@@ -18,7 +18,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gismo1337&show_icons=true&locale=en" alt="gismo1337" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gismo1337&show_icons=true&locale=en" alt="gismo1337" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gismo1337&" alt="gismo1337" /></p>
 
