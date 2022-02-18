@@ -30,8 +30,8 @@
  Youtube, Codepen, Expo Snack, Instagram, Facebook, Twitter, LinkedIn, TikTok
  	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/Youtube-%23FFFC00.svg?style=plastic&logo=Youtube&logoColor=black" alt="Youtube"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/Codepen-%23FFFC00.svg?style=plastic&logo=Codepen&logoColor=black" alt="Youtube"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/youtube-%23FFFC00.svg?style=plastic&logo=youtube&logoColor=red" alt="Youtube"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/codepen-%23FFFC00.svg?style=plastic&logo=codepen&logoColor=black" alt="Codepen"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
