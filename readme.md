@@ -15,6 +15,7 @@ Ich freue mich über jeden Einzelnen von euch.
 
 ## 📈 Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gismo1337&" alt="gismo1337" /></p>
+
 ## 🛠 Techstack & Skills
 Diese und einige mehr sind mindestens im wichtigsten Umfang bekannt und aktiv im Einsatz.
 
