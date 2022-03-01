@@ -6,7 +6,7 @@ Schau dich in Ruhe um, meld dich wenn ich Dir helfen darf.
 ## 🚀 Das bin ich 
 Zugegeben, mit der Kindheit im Sozialviertel waren meine Startbedingungen nicht die Besten und trotzdem habe ich Ende 2020 meine GmbH verkauft und mich entschlossen als Webentwickler tätig zu werden. Durch meinen Hang zur IT war dieser Schritt sehr naheliegend und viele Dinge nicht immer neu für mich.
 
-So begegnete ich auf diesem Weg diversen Begleiter, angefangen bei HTML, CSS und JavaScript ging die Reise über Vue 2 und Vue 3, zu Laravel und nun scheine ich mit React Native das gefunden zu haben, wo nach ich gesucht habe.
+So begegnete ich auf diesem Weg diversen Begleiter, angefangen bei HTML, CSS und JavaScript ging die Reise über Vue 2 und Vue 3, zu Laravel und nun scheine ich mit React (Native) das gefunden zu haben, wo nach ich gesucht habe.
 
 Um mich selbst beim Lernen zu unterstützen, habe ich mich entschlossen in unregelmäßigen Abständen etwas von meinem Fortschritt mit euch zu teilen. Fühlt euch Frei die Repositories entsprechend der Lizenz zu nutzen, zu verbessern oder Fehler zu melden. 
 
