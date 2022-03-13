@@ -55,10 +55,9 @@ Diese und einige mehr sind mindestens im wichtigsten Umfang bekannt und aktiv im
 - JavaScript 
 - PHP  
 
-### Bibliotheken
-- Vue2  
-- Vue3 
-- React 
+### Bibliotheken 
+- VueJs 
+- ReactJs 
 - React Native 
 
 ### Frameworks
