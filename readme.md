@@ -12,6 +12,10 @@ Um mich selbst beim Lernen zu unterstützen, habe ich mich entschlossen in unreg
 
 Ich freue mich über jeden Einzelnen von euch.
 
+## 🔥 Links
+
+![Animated Flatlist](https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/raw/main/preview.gif)
+
 ## 🔗 Links
 [![devto](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gismo1337)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianrichter1337/)
