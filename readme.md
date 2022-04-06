@@ -14,7 +14,9 @@ Ich freue mich über jeden Einzelnen von euch.
 
 ## 🔥 Selfmade Previews
 
-![Animated Flatlist](https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/raw/main/preview.gif)
+<img src="https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/raw/main/preview.gif" width="210" height="450">
+
+Preview is a little bit buggy
 
 ## 🔗 Links
 [![devto](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gismo1337)
