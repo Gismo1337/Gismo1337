@@ -12,7 +12,7 @@ Um mich selbst beim Lernen zu unterstützen, habe ich mich entschlossen in unreg
 
 Ich freue mich über jeden Einzelnen von euch.
 
-## 🔥 Selfmade Previews
+## 🔥 Selfmade Components Preview
 
 <img src="https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/raw/main/preview.gif" width="210" height="450">
 
