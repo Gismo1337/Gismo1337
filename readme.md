@@ -12,7 +12,7 @@ Um mich selbst beim Lernen zu unterstützen, habe ich mich entschlossen in unreg
 
 Ich freue mich über jeden Einzelnen von euch.
 
-## 🔥 Links
+## 🔥 Selfmade Previews
 
 ![Animated Flatlist](https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/raw/main/preview.gif)
 
