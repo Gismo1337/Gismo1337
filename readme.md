@@ -12,15 +12,15 @@ Um mich selbst beim Lernen zu unterstützen, habe ich mich entschlossen in unreg
 
 Ich freue mich über jeden Einzelnen von euch.
 
-## 🔥 Selfmade Components Preview
-
-<img src="https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/raw/main/preview.gif" width="210" height="450"> 
-
-## DEV.to App Clone written by me - line by line
+## 🔥🔥DEV.to App Clone written by me - line by line 🔥🔥
 
 <img src="https://github.com/Gismo1337/dev-to-clone/blob/main/assets/previewFeed.png" width="210" height="450"/> <img src="https://github.com/Gismo1337/dev-to-clone/blob/main/assets/previewSearch.png" width="210" height="450" />
 
 Preview is a little bit buggy
+
+## 🔥 Selfmade Components Preview
+
+<img src="https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/raw/main/preview.gif" width="210" height="450"> 
 
 ## 🔗 Links
 [![devto](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gismo1337)
