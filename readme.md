@@ -13,6 +13,7 @@ Um mich selbst beim Lernen zu unterstützen, habe ich mich entschlossen in unreg
 Ich freue mich über jeden Einzelnen von euch.
 
 ## 🔥🔥 DEV.to App Clone written by me - line by line 🔥🔥
+Die App wurde von mir geschrieben und ist ein einfaches Beispiel für ein eigenes Projekt. Die Nutzerdaten und Beiträge werden auf der Google Firebase Cloud gespeichert. Dabei wurden die geheimen Variablen aus dem .env File gelesen und an die Firebase Config übergeben. Ein Beispiel der .env Datei liegt dem Repo bei. 
 
 ![APP PREVIEW](https://github.com/Gismo1337/dev-to-clone/blob/main/assets/DevClonePreview.gif)
 
