@@ -10,7 +10,7 @@ So begegnete ich auf diesem Weg diversen Begleiter, angefangen bei HTML, CSS und
 
 Um mich selbst beim Lernen zu unterstützen, habe ich mich entschlossen in unregelmäßigen Abständen etwas von meinem Fortschritt mit euch zu teilen. Fühlt euch Frei die Repositories entsprechend der Lizenz zu nutzen, zu verbessern oder Fehler zu melden. 
 
-Ich freue mich über jeden Einzelnen von euch.
+Mit meinem Start im Mai 2022 als Co-Founder mit dem Fokus auf die Prototypenentwicklung, habe ich meine kleinen privaten Projekte eingestellt. Ihr findet meine Arbeit in Zukunft auf @warespace bzw. www.warespace.de
 
 ## 🔥🔥 DEV.to App Clone written by me - line by line 🔥🔥
 Die App wurde von mir geschrieben und ist ein einfaches Beispiel für ein eigenes Projekt. Die Nutzerdaten und Beiträge werden auf der Google Firebase Cloud gespeichert. Dabei wurden die geheimen Variablen aus dem .env File gelesen und an die Firebase Config übergeben. Ein Beispiel der .env Datei liegt dem Repo bei. 
@@ -43,7 +43,8 @@ Diese und einige mehr sind mindestens im wichtigsten Umfang bekannt und aktiv im
 - iOS
 
 ### Office
-- Microsoft Office 
+- Microsoft Office 365
+- SharePoint
 - Google Businesstools 
 - Adobe Photoshop 
 
@@ -55,6 +56,7 @@ Diese und einige mehr sind mindestens im wichtigsten Umfang bekannt und aktiv im
 ### Organisation
 - Notion
 - Jira 
+- Monday
 
 ### Codingsoftware
 - VS Code 
@@ -78,11 +80,15 @@ Diese und einige mehr sind mindestens im wichtigsten Umfang bekannt und aktiv im
 ### Helfer
 - NodeJs
 - Git
+- Nova
+- Livewire
+- Vapor
 
 ### Datenbanken
 - MySQL
 - MongoDB
 - Firebase
+- AWS
 
 
 
