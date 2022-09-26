@@ -3,25 +3,13 @@
 Schau dich in Ruhe um, meld dich wenn ich Dir helfen darf.
 
 
-## 🚀 Das bin ich 
-Zugegeben, mit der Kindheit im Sozialviertel waren meine Startbedingungen nicht die Besten und trotzdem habe ich Ende 2020 meine GmbH verkauft und mich entschlossen als Webentwickler tätig zu werden. Durch meinen Hang zur IT war dieser Schritt sehr naheliegend und viele Dinge nicht immer neu für mich.
-
-So begegnete ich auf diesem Weg diversen Begleiter, angefangen bei HTML, CSS und JavaScript ging die Reise über Vue 2 und Vue 3, zu Laravel und nun scheine ich mit React (Native) das gefunden zu haben, wo nach ich gesucht habe.
-
-Um mich selbst beim Lernen zu unterstützen, habe ich mich entschlossen in unregelmäßigen Abständen etwas von meinem Fortschritt mit euch zu teilen. Fühlt euch Frei die Repositories entsprechend der Lizenz zu nutzen, zu verbessern oder Fehler zu melden. 
-
-Mit meinem Start im Mai 2022 als Co-Founder mit dem Fokus auf die Prototypenentwicklung, habe ich meine kleinen privaten Projekte eingestellt. Ihr findet meine Arbeit in Zukunft auf @warespace bzw. www.warespace.de
+[![@gismo1337's Holopin board](https://holopin.io/api/user/board?user=gismo1337)](https://holopin.io/@gismo1337)
 
 ## 🔥🔥 DEV.to App Clone written by me - line by line 🔥🔥
 Die App wurde von mir geschrieben und ist ein einfaches Beispiel für ein eigenes Projekt. Die Nutzerdaten und Beiträge werden auf der Google Firebase Cloud gespeichert. Dabei wurden die geheimen Variablen aus dem .env File gelesen und an die Firebase Config übergeben. Ein Beispiel der .env Datei liegt dem Repo bei. 
 
 ![APP PREVIEW](https://github.com/Gismo1337/dev-to-clone/blob/main/assets/DevClonePreview.gif)
 
-
-## 🔥 Selfmade Components Preview
-little bit laggy because gif
-
-<img src="https://github.com/Gismo1337/expo-react-native-swipeup-flatlist-component/raw/main/preview.gif" width="210" height="450"> 
 
 ## 🔗 Links
 [![devto](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gismo1337)
