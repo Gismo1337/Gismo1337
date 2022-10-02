@@ -6,6 +6,13 @@ Schau dich in Ruhe um, meld dich wenn ich Dir helfen darf.
 ## 🔥🔥 DEV.to App Clone written by me - line by line 🔥🔥
 Die App wurde von mir geschrieben und ist ein einfaches Beispiel für ein eigenes Projekt. Die Nutzerdaten und Beiträge werden auf der Google Firebase Cloud gespeichert. Dabei wurden die geheimen Variablen aus dem .env File gelesen und an die Firebase Config übergeben. Ein Beispiel der .env Datei liegt dem Repo bei. 
 
+ <a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gismo1337&show_icons=true&theme=chartreuse-dark">
+ </a>
+ <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismo1337&layout=compact&langs_count=10&theme=chartreuse-dark">
+</a>
+
 ![APP PREVIEW](https://github.com/Gismo1337/dev-to-clone/blob/main/assets/DevClonePreview.gif)
 
 ## 🔗 Links
