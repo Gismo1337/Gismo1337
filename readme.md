@@ -3,25 +3,12 @@
 # Hi, mein Name ist Sebastian
 Schau dich in Ruhe um, meld dich wenn ich Dir helfen darf.
 
-## 🔥🔥 DEV.to App Clone written by me - line by line 🔥🔥
-Die App wurde von mir geschrieben und ist ein einfaches Beispiel für ein eigenes Projekt. Die Nutzerdaten und Beiträge werden auf der Google Firebase Cloud gespeichert. Dabei wurden die geheimen Variablen aus dem .env File gelesen und an die Firebase Config übergeben. Ein Beispiel der .env Datei liegt dem Repo bei. 
-
-![APP PREVIEW](https://github.com/Gismo1337/dev-to-clone/blob/main/assets/DevClonePreview.gif)
-
 ## 🔗 Links
-[![devto](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gismo1337)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianrichter1337/)
-[![youtube](https://img.shields.io/badge/youtube-f70025?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/gismo1337dev)
-[![expo](https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@g1sm0?tab=snacks)
 
 ## 📈 Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gismo1337&" alt="gismo1337" /></p>
  <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gismo1337&show_icons=true&theme=chartreuse-dark">
- </a>
- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gismo1337&layout=compact&langs_count=10&theme=chartreuse-dark">
-</a>
 
 ## 🛠 Techstack & Skills
 Diese und einige mehr sind mindestens im wichtigsten Umfang bekannt und aktiv im Einsatz.
